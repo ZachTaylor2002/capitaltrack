@@ -8,6 +8,13 @@
       "when": 1752352594001,
       "tag": "0000_lush_azazel",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1752364061184,
+      "tag": "0001_dry_blob",
+      "breakpoints": true
     }
   ]
 }
