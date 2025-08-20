@@ -2,7 +2,10 @@
 
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
-<img src="Frontend/src/assets/CapitalTrackLogo.png" alt="CapitalTrack Logo" width="200" />
+
+<img alt="CapitalTrack Logo" width="200"  src="https://github.com/user-attachments/assets/1a4e9b93-6698-48ef-b10b-79b613451558" />
+
+
 
 # CapitalTrack
 
