@@ -3,8 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img alt="CapitalTrack Logo" width="200"  src="https://github.com/user-attachments/assets/1a4e9b93-6698-48ef-b10b-79b613451558" />
-
+<img width="175" height="47" alt="CapitalTrack Logo" src="https://github.com/user-attachments/assets/4c3e6b66-2cec-4e9b-8304-f134ab27ba9a" />
 
 
 # CapitalTrack
