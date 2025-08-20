@@ -36,9 +36,6 @@
 
 **CapitalTrack** is a modern **Finance SaaS Platform** built to help individuals and small businesses track income and expenses, visualize financial data, and manage accounts with ease. It combines robust backend APIs, a polished UI, and premium features for advanced financial control.
 
-## Preview
-
-https://github.com/user-attachments/assets/your-demo-video-link
 
 ## Why CapitalTrack?
 
